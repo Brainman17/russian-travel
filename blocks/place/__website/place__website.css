@@ -11,7 +11,7 @@
     }
 }
 
-@media  screen and (max-width: 568px) {
+@media  screen and (max-width: 650px) {
     .place__website {
         max-width: 288px;
         align-self: flex-start;

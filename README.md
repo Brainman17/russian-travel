@@ -7,6 +7,6 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://github.com/Brainman17)
+* [Ссылка на GitHub Pages](https://brainman17.github.io/russian-travel)
 
 

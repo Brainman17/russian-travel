@@ -1,5 +1,6 @@
 .place__paragraph {
-    font-family: 'Inter-400';
+    font-family: 'Inter';
+    font-weight: 400;
     font-style: normal;
     font-size: 18px;
     line-height: 163%;
@@ -20,7 +21,7 @@
     }
 }
 
-@media  screen and (max-width: 568px) {
+@media  screen and (max-width: 650px) {
     .place__paragraph {
         padding: 0 16px;
     }
