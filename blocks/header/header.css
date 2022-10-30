@@ -1,7 +1,7 @@
 .header {
     display: flex;
     max-width: 1184px;
-    box-sizing: border-box;
     justify-content: space-between;
     align-items: center;
+    text-align: center;
 }

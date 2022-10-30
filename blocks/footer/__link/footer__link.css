@@ -1,5 +1,5 @@
 .footer__link {
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -23,10 +23,15 @@
 
  @media screen and (max-width: 730px) {
     .footer__link {
-        padding: 32px 0 0 0;
+        padding-top: 32px;
         font-size: 24px;
         line-height: 24px;
     }
+
+    /* Если я правильно понял, нужно вместо общего padding сделать padding-top. И так во всех случаях */
+
+
+
     .footer__link:first-child {
         padding-top: 0;
     }
