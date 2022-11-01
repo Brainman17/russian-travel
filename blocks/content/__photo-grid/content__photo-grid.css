@@ -2,22 +2,12 @@
     padding: 0 48px;
 }
 
-
-@media  screen and (max-width: 1050px) {
-  .content__photo-grid {
-      padding-left: 0;
-      padding-right: 0;
-  }
-}
-
-
 @media  screen and (max-width: 984px) {
     .content__photo-grid {
         padding-left: 24px;
         padding-right: 24px;
     }
 }
-
 
 @media  screen and (max-width: 568px) {
     .content__photo-grid {
